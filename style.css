@@ -1,0 +1,36 @@
+body {
+  color: #f2bb10;
+  background: #333333;
+}
+
+h1 {
+	color: #f2bb10;
+}
+
+h2 {
+	color: #0d8380;
+}
+h3
+}
+ol{
+color:#c0ffee
+}
+
+header {
+  padding: 60px;
+  text-align: center;
+  background: #0c3f58;
+  color: #ccac00;
+  font-size: 30px;
+}
+
+
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: ;
+  color: #c0ffee;
+  text-align: center;
+}
